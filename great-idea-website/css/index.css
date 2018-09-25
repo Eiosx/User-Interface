@@ -118,19 +118,19 @@ header img{
 	top: 170px;
 	width: 880px;
 }
-section{
+article{
 	display: inline-block;
 	padding: 20px;
 	position: relative;
 	top: 170px;
 }
 
-#art-1{
+#sec-1{
 	position:relative;
 	width: 430px;
 	left: 30px;
 }
-#art-2{
+#sec-2{
 	width: 430px;
 	position: relative;
 	left: 480px;
@@ -142,21 +142,21 @@ section{
 	left: 50px;
 
 }
-#second-section{
+#second-article{
 	position: relative;
 	top: 130px;
 }
-#art-3{
+#sec-3{
 	position:relative;
 	width: 275px;
 	left: 30px;
 }
-#art-4{
+#sec-4{
 	position:relative;
 	width: 275px;
 	left: 330px;
 	bottom: 130px;
-}#art-5{
+}#sec-5{
 	position:relative;
 	width: 275px;
 	left: 630px;
